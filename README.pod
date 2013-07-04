@@ -1,0 +1,32 @@
+=pod
+
+=head1 NAME
+
+App::Nopaste::Service::zakx - L<App::Nopaste> interface to L<http://np.zakx.de>
+
+=head1 VERSION
+
+version 0.001
+
+=head1 SYNOPSIS
+
+To use, simple use:
+
+    $ echo "text" | nopaste -s zakx
+
+=head1 SEE ALSO
+
+L<App::Nopaste::Command> - command-line utility for L<App::Nopaste>
+
+=head1 AUTHOR
+
+Benjamin Stier <ben@unpatched.de>
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2013 by Benjamin Stier.
+
+This program is free software. It comes without any warranty, to the extent
+permitted by applicable law. You can redistribute it and/or modify it under the
+terms of the Beer-ware license revision 42.
+
